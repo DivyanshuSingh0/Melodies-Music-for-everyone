@@ -35,3 +35,4 @@ Settings Page
 📌 Note
 This is a UI/UX design prototype created in Figma. It is not a functional application but a conceptual design meant for visual presentation and inspiration.
 
+https://www.figma.com/design/gs7TB6n8KLwYnTvkQmaA9v/Untitled?node-id=0-1&t=gELqa4Lvyu2EI7Sj-1
